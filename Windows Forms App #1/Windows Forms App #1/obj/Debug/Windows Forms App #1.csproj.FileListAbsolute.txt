@@ -1,0 +1,10 @@
+C:\Lapzy\Application\Visual Studio\project\visprog\Windows Forms App #1\Windows Forms App #1\bin\Debug\Windows Forms App #1.exe.config
+C:\Lapzy\Application\Visual Studio\project\visprog\Windows Forms App #1\Windows Forms App #1\bin\Debug\Windows Forms App #1.exe
+C:\Lapzy\Application\Visual Studio\project\visprog\Windows Forms App #1\Windows Forms App #1\bin\Debug\Windows Forms App #1.pdb
+C:\Lapzy\Application\Visual Studio\project\visprog\Windows Forms App #1\Windows Forms App #1\obj\Debug\Windows Forms App #1.csproj.AssemblyReference.cache
+C:\Lapzy\Application\Visual Studio\project\visprog\Windows Forms App #1\Windows Forms App #1\obj\Debug\Windows_Forms_App__1.Form1.resources
+C:\Lapzy\Application\Visual Studio\project\visprog\Windows Forms App #1\Windows Forms App #1\obj\Debug\Windows_Forms_App__1.Properties.Resources.resources
+C:\Lapzy\Application\Visual Studio\project\visprog\Windows Forms App #1\Windows Forms App #1\obj\Debug\Windows Forms App #1.csproj.GenerateResource.cache
+C:\Lapzy\Application\Visual Studio\project\visprog\Windows Forms App #1\Windows Forms App #1\obj\Debug\Windows Forms App #1.csproj.CoreCompileInputs.cache
+C:\Lapzy\Application\Visual Studio\project\visprog\Windows Forms App #1\Windows Forms App #1\obj\Debug\Windows Forms App #1.exe
+C:\Lapzy\Application\Visual Studio\project\visprog\Windows Forms App #1\Windows Forms App #1\obj\Debug\Windows Forms App #1.pdb
