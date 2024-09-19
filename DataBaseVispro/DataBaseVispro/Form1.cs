@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -7,7 +7,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using DataBaseVispro;
 using MySql.Data;
 using MySql.Data.MySqlClient;
 
@@ -33,7 +32,17 @@ namespace DataBaseVispro
 
         }
 
-        private void btnLogin_Click(object sender, EventArgs e)
+        private void txtUsername_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtPassword_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnLogin_Click_1(object sender, EventArgs e)
         {
             try
             {
@@ -72,7 +81,6 @@ namespace DataBaseVispro
             {
                 MessageBox.Show(ex.ToString());
             }
-
         }
     }
 }
